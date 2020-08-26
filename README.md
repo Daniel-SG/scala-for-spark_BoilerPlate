@@ -16,7 +16,7 @@ See the links above for access to the screencasts.
 ## Notes
 ## Running in IntelliJ
 Open for instance Skeleton.scala file, press right button on an empty area and click on 'Run Skeleton' if you get an error do the following
-1- Go to Run -> Edit Configurations -> and click the checkboxs "Include dependencies with Provided scope"
+Go to Run -> Edit Configurations -> and click the checkboxs "Include dependencies with Provided scope"
 
 ## Debugging in IntelliJ
 
