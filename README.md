@@ -3,7 +3,7 @@
 ## Overview
 This repo is used in Scala for Spark tutorials available at https://www.supergloo.com/courses/scala-spark-course/.
 
-ALTERNATIVELY you can use this guide: https://sparkbyexamples.com/spark/spark-setup-run-with-scala-intellij/
+ALTERNATIVELY you can use this guide: https://sparkbyexamples.com/spark/spark-setup-run-with-scala-intellij/ and use the pom.xml attached!!
 
 The tutorials are designed for those new to Scala, but familiar with programming in other languages.  Further, it's presumed there is an interest in learning Scala in order to use Apache Spark.  
 
